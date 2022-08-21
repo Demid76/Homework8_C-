@@ -1,0 +1,15 @@
+C:\C_Sharp\Seminar8\Task56\bin\Debug\net6.0\Task56.exe
+C:\C_Sharp\Seminar8\Task56\bin\Debug\net6.0\Task56.deps.json
+C:\C_Sharp\Seminar8\Task56\bin\Debug\net6.0\Task56.runtimeconfig.json
+C:\C_Sharp\Seminar8\Task56\bin\Debug\net6.0\Task56.dll
+C:\C_Sharp\Seminar8\Task56\bin\Debug\net6.0\Task56.pdb
+C:\C_Sharp\Seminar8\Task56\obj\Debug\net6.0\Task56.csproj.AssemblyReference.cache
+C:\C_Sharp\Seminar8\Task56\obj\Debug\net6.0\Task56.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_Sharp\Seminar8\Task56\obj\Debug\net6.0\Task56.AssemblyInfoInputs.cache
+C:\C_Sharp\Seminar8\Task56\obj\Debug\net6.0\Task56.AssemblyInfo.cs
+C:\C_Sharp\Seminar8\Task56\obj\Debug\net6.0\Task56.csproj.CoreCompileInputs.cache
+C:\C_Sharp\Seminar8\Task56\obj\Debug\net6.0\Task56.dll
+C:\C_Sharp\Seminar8\Task56\obj\Debug\net6.0\refint\Task56.dll
+C:\C_Sharp\Seminar8\Task56\obj\Debug\net6.0\Task56.pdb
+C:\C_Sharp\Seminar8\Task56\obj\Debug\net6.0\Task56.genruntimeconfig.cache
+C:\C_Sharp\Seminar8\Task56\obj\Debug\net6.0\ref\Task56.dll
